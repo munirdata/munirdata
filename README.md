@@ -22,3 +22,6 @@ Me chamo Guilherme Munir, tenho 25 anos e sou natural de São Paulo. Sou graduad
         />
     </a>
 </p>
+
+### 🤖 Linguagens e Tecnologias
+
