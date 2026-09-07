@@ -18,7 +18,6 @@
         />
     </a>
 </p>
----
 
 ### 🚀 Jr Analyst | Controladoria & FP&A
 
