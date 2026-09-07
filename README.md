@@ -35,7 +35,7 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 <img src="https://demolab.com" alt="Excel" /> <img src="https://demolab.com" alt="Power BI" />
 
 ##### **Bancos de Dados & Consultas**
-<img src="https://demolab.com" alt="SQL" /> <img src="https://demolab.com" alt="PostgreSQL" /> <img src="https://demolab.com" alt="MySQL" />
+<img src="https://demolab.com" alt="PostgreSQL" />
 
 ##### **Conhecimentos de Negócio**
 <img src="https://demolab.com" alt="Controladoria" /> <img src="https://demolab.com" alt="FP&A" />
