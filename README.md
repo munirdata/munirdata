@@ -42,7 +42,7 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 
 Se você quiser trocar uma ideia sobre finanças corporativas, dados ou oportunidades na área, sinta-se à vontade para me mandar uma mensagem!
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com)
 [![E-mail](https://shields.io)](mailto:seu-email@gmail.com)
 
 ---
@@ -50,4 +50,5 @@ Se você quiser trocar uma ideia sobre finanças corporativas, dados ou oportuni
 <p align="center">
   <img src="https://vercel.app" alt="Estatísticas do GitHub do Guilherme" />
 </p>
+
 
