@@ -25,3 +25,5 @@ Me chamo Guilherme Munir, tenho 25 anos e sou natural de São Paulo. Sou graduad
 
 ### 🤖 Linguagens e Tecnologias
 
+<!-- Label para PostgreSQL -->
+![Postgres](https://shields.io)
