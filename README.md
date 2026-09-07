@@ -29,7 +29,7 @@ Sou um profissional apaixonado pela intersecção entre **tecnologia e finanças
 
 ---
 
-### 🤖 Hard Skills & Ferramentas
+### 🤖 Linguagens e Tecnologias
 
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia para construir soluções de análise de dados e finanças:
 
