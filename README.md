@@ -20,15 +20,13 @@ Sou um profissional apaixonado pela intersecção entre **tecnologia e finanças
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia para construir soluções de análise de dados e finanças:
 
 ##### **Análise de Dados & Business Intelligence**
-![Microsoft Excel](https://shields.io)
-![Power BI](https://shields.io)
+<img src="https://shields.io" alt="Excel" /> <img src="https://shields.io" alt="Power BI" />
 
 ##### **Bancos de Dados & Consultas**
-![PostgreSQL](https://shields.io)
+<img src="https://shields.io" alt="SQL" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="MySQL" />
 
 ##### **Conhecimentos de Negócio**
-![Controladoria](https://shields.io)
-![FP&A](https://shields.io)
+<img src="https://shields.io" alt="Controladoria" /> <img src="https://shields.io" alt="FP&A" />
 
 ---
 
@@ -52,3 +50,4 @@ Se você quiser trocar uma ideia sobre finanças corporativas, dados ou oportuni
 <p align="center">
   <img src="https://vercel.app" alt="Estatísticas do GitHub do Guilherme" />
 </p>
+
