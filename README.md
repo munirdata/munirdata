@@ -1,4 +1,6 @@
 # Guilherme Munir
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analisando+dados+financeiros)](https://git.io/typing-svg)
+
 
 ### 🚀 Jr Analyst | Controladoria & FP&A
 
