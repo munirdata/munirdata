@@ -1,5 +1,11 @@
 # Guilherme Munir
 
+### 🚀 Jr Analyst | Controladoria & FP&A
+
+Me chamo Guilherme Munir, tenho 25 anos e sou natural de São Paulo. Sou graduado em **Ciências Contábeis** pela UNIÍTALO e pós-graduado em **Controladoria e Finanças** pelo SENAC. 
+
+Sou um profissional apaixonado pela intersecção entre **tecnologia e finanças**. Utilizo ferramentas de dados para transformar números brutos em relatórios inteligentes, relatórios de performance, projeções orçamentárias (FP&A) e análises que apoiam a tomada de decisão estratégica nas empresas.
+
 <p 
     <a 
     </a> 
@@ -18,12 +24,6 @@
         />
     </a>
 </p>
-
-### 🚀 Jr Analyst | Controladoria & FP&A
-
-Me chamo Guilherme Munir, tenho 25 anos e sou natural de São Paulo. Sou graduado em **Ciências Contábeis** pela UNIÍTALO e pós-graduado em **Controladoria e Finanças** pelo SENAC. 
-
-Sou um profissional apaixonado pela intersecção entre **tecnologia e finanças**. Utilizo ferramentas de dados para transformar números brutos em relatórios inteligentes, relatórios de performance, projeções orçamentárias (FP&A) e análises que apoiam a tomada de decisão estratégica nas empresas.
 
 ---
 
