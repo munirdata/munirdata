@@ -1,5 +1,5 @@
 # Guilherme Munir
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analytics+aplicado+a+finanças+corporativas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analytics+aplicado+a+finanças)](https://git.io/typing-svg)
 
 
 ### 🚀 Financial Analyst | Controlling
