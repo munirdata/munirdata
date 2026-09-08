@@ -4,9 +4,9 @@
 
 ### 🚀 Financial Analyst | Controlling
 
-Graduado em Ciências Contábeis (UNIÍTALO) e pós-graduado em Controladoria e Finanças (SENAC).
+Com base sólida em Ciências Contábeis (UNIÍTALO) e Controladoria e Finanças (SENAC), atuo construindo pontes entre as áreas de negócios e a tecnologia.
 
-Atuo na intersecção entre tecnologia e finanças corporativas. Meu foco é utilizar a análise de dados para transformar números brutos em inteligência de negócios, desenvolvendo projeções orçamentárias (FP&A), modelagens financeiras e análises que suportam a tomada de decisão estratégica nas empresas.
+Sou apaixonado por otimizar processos financeiros. Utilizo ferramentas de dados para automatizar rotinas, criar relatórios de performance e desenvolver projeções orçamentárias (FP&A) que garantem agilidade e precisão na tomada de decisão estratégica.
 
 <p 
     <a 
