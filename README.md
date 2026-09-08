@@ -34,14 +34,10 @@ Sou apaixonado por otimizar processos financeiros. Utilizo ferramentas de dados 
 Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia para construir soluções de análise de dados e finanças:
 
 ##### **Análise de Dados & Business Intelligence**
-<img src="https://demolab.com" alt="Excel" /> <img src="https://demolab.com" alt="Power BI" />
+Excel | Power BI
 
 ##### **Bancos de Dados & Consultas**
-![PostgreSQL](<i class="devicon-postgresql-plain-wordmark"></i>)
-
-
-##### **Conhecimentos de Negócio**
-<img src="https://demolab.com" alt="Controladoria" /> <img src="https://demolab.com" alt="FP&A" />
+PostgreSQL
 
 
 ### 📊 O que você vai encontrar no meu GitHub?
