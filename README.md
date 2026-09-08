@@ -37,7 +37,9 @@ Aqui estão as principais tecnologias e ferramentas que utilizo no meu dia a dia
 <img src="https://demolab.com" alt="Excel" /> <img src="https://demolab.com" alt="Power BI" />
 
 ##### **Bancos de Dados & Consultas**
-![PostgreSQL](<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />)
+![PostgreSQL](
+            <i class="devicon-postgresql-plain-wordmark"></i>
+          )
 
 
 ##### **Conhecimentos de Negócio**
