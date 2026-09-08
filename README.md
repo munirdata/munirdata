@@ -1,12 +1,12 @@
 # Guilherme Munir
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analisando+dados+financeiros)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analytics+aplicado+a+finanças+corporativas)](https://git.io/typing-svg)
 
 
-### 🚀 Jr Analyst | Controladoria & FP&A
+### 🚀 Financial Analyst | Controlling
 
-Me chamo Guilherme Munir, tenho 25 anos e sou natural de São Paulo. Sou graduado em **Ciências Contábeis** pela UNIÍTALO e pós-graduado em **Controladoria e Finanças** pelo SENAC. 
+Graduado em Ciências Contábeis (UNIÍTALO) e pós-graduado em Controladoria e Finanças (SENAC).
 
-Sou um profissional apaixonado pela intersecção entre **tecnologia e finanças**. Utilizo ferramentas de dados para transformar números brutos em relatórios inteligentes, relatórios de performance, projeções orçamentárias (FP&A) e análises que apoiam a tomada de decisão estratégica nas empresas.
+Atuo na intersecção entre tecnologia e finanças corporativas. Meu foco é utilizar a análise de dados para transformar números brutos em inteligência de negócios, desenvolvendo projeções orçamentárias (FP&A), modelagens financeiras e análises que suportam a tomada de decisão estratégica nas empresas.
 
 <p 
     <a 
